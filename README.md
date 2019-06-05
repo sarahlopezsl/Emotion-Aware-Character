@@ -1,6 +1,6 @@
 # UnityAffectiva_SarahLopez
 
-## Detector.cs
-## FacialExpression.cs
-## ImageResultsParser.cs
-## JumpUp.cs
+### Detector.cs
+### FacialExpression.cs
+### ImageResultsParser.cs
+### JumpUp.cs
